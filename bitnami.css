@@ -7,7 +7,7 @@ img {border:0px}
 a:link {color:#0f30ac !important;text-decoration: underline;}
 a:hover {color:#006cff !important;text-decoration: underline;}
 a:visited {color:#858585 !important;text-decoration: underline;}
-a:active {color:#ff3232 !important;text-decoration: underline;}
+a:active {color:#ff3232 !important;text-decoration: underline; display:none;}
 
 h3 {font-size: 18px;margin-bottom:16px;color: #122355 !important;}
 
